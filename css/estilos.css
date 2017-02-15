@@ -14,8 +14,9 @@ body
 
 header
 {
-	background: #4357ad;
-	position: fixed;
+	/*background: #4357ad;*/
+	background: #43ad44;
+	position: fixed;	
 	width: 100%;
 	top: 0;
 }
