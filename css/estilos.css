@@ -54,7 +54,7 @@ header
 
 .menu .logo:hover
 {
-	background: #4357ad;
+	background: #43ad44;
 }
 
 .menu .enlaces
@@ -81,7 +81,8 @@ header
 .menu .enlaces a:hover
 {
 	background: #f2f2f2;
-	color: #4357ad;	
+	/*color: #4357ad;*/
+	color: #43ad44;
 }
 
 main
